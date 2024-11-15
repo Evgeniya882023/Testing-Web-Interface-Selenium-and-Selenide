@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/Evgeniya882023/Testing-Web-Interface-Selenium-and-Selenide/actions/workflows/gradle.yml/badge.svg)](https://github.com/Evgeniya882023/Testing-Web-Interface-Selenium-and-Selenide/actions/workflows/gradle.yml)
